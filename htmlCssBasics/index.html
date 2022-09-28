@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+  <!-- 
+    "head" element used to hold metadata and info that isn't seen on the web page, but is useful for the website to work
+-->
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Music Blog</title>
+  </head>
+  <!--
+    "body" tag holds elements/tags that will be displayed on the web browser
+-->
+  <body>
+    <header>
+      <!-- h1 - h6 -->
+      <h1>Music Blog</h1>
+
+      <nav>
+        <!--
+                Emmet shortcut:
+
+                ul>(li>span{Home})+(li>a)
+            -->
+        <ul>
+          <li><span>Home</span></li>
+          <!-- 
+                    "HTML Attributes"
+
+                    - keywords written inside html opening tag that allow for different specifications/functionality to the associated HTML element
+                 -->
+          <li><a href="#main">Welcome</a></li>
+          <li><a href="#aside">Favorite Albums</a></li>
+          <li><a href="#footer">Footer</a></li>
+        </ul>
+        <ul>
+          <li>
+            Blah
+            <ol>
+              <li>Blah</li>
+              <li>Blah</li>
+            </ol>
+          </li>
+          <li>Blah</li>
+          <li>Blah</li>
+        </ul>
+      </nav>
+    </header>
+    <section>
+      <h2>Welcome!</h2>
+
+      <!-- 
+            <main> tag:
+
+            - CAN ONLY BE ONE (specifies "main" content of page)
+            - CANNOT be nested inside of "header", "nav", "article", "aside", "footer" elements
+        -->
+      <main id="main">
+        <article>
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin
+            aliquet purus sit amet pulvinar euismod. Praesent gravida ligula sit
+            amet neque dignissim, eget rutrum diam hendrerit. Nam eu velit
+            blandit, mattis massa vel, mattis magna. Suspendisse potenti. Nunc
+            sed arcu vel massa dapibus consequat ut vel erat. Fusce posuere
+            suscipit sapien, vitae porttitor lacus dictum at. Proin a leo quis
+            eros hendrerit feugiat. Fusce ultricies, massa vitae ullamcorper
+            mattis, nisl eros feugiat nulla, sit amet fermentum augue lectus eu
+            quam. Sed ipsum ligula, hendrerit et libero sed, interdum vehicula
+            massa.
+          </p>
+          <p>
+            Donec ullamcorper, lorem id ultrices faucibus, felis risus maximus
+            urna, vel mollis lorem sem ut urna. Proin convallis aliquam massa,
+            non pharetra mi mattis nec. Cras efficitur mollis eros consectetur
+            tincidunt. Sed rutrum ultricies eros. Fusce eget commodo nisi, a
+            dapibus mi. Cras dictum ante quis ullamcorper viverra. Suspendisse
+            potenti. Nulla ut tempus tellus. Sed lacinia sodales neque quis
+            malesuada. Maecenas ipsum augue, congue a ante et, tincidunt luctus
+            dolor. Fusce ornare, elit vitae ullamcorper tempor, lectus massa
+            dignissim mi, vitae porta dolor neque non leo. Donec semper odio ac
+            lacus tempor tincidunt. Fusce tempor consequat metus, at varius
+            tellus lobortis sed. Curabitur varius ligula et sollicitudin
+            pulvinar. Etiam sit.
+          </p>
+        </article>
+
+        <aside id="aside">
+          <h2>Favorite Albums</h2>
+
+          <a href="./assets/allEyezOnMe.jpeg" target="_blank"
+            ><img
+              src="./assets/allEyezOnMe.jpeg"
+              alt="all eyes on me album cover"
+          /></a>
+          <a href="./assets/channelOrange.jpg" target="_blank"
+            ><img src="./assets/channelOrange.jpg" alt="channel orange cover"
+          /></a>
+          <a href="./assets/inSearchOf.webp" target="_blank"
+            ><img src="./assets/inSearchOf.webp" alt="in search of cover"
+          /></a>
+          <a href="./assets/midnightMarauders.jpeg" target="_blank"
+            ><img
+              src="./assets/midnightMarauders.jpeg"
+              alt="midnight marauders album cover"
+          /></a>
+        </aside>
+      </main>
+    </section>
+    <footer id="footer">
+      <p>
+        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+        dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+        proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+      </p>
+    </footer>
+  </body>
+</html>
