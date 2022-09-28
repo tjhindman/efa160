@@ -1,3 +1,98 @@
+/* CSS - Cascading Style Sheet */
+
+/* 
+    htmlElement, class, id {
+        css-property: value;
+    }
+
+    "." PERIOD to access classes
+    "#" HASHTAG to access id's
+*/
+/* 
+    WHEN YOU SHOULD APPLY STYLING TO HTML ELEMENT:
+
+    1. when working with REM units (scale to "font-size" property of root element <html>)
+    2. don't want <body> element "background-color" to flood entire viewport
+*/
+
+body {
+    background-color: rgb(108, 43, 43);
+    width: 80vw;
+    min-width: 800px;
+    height: 100vh;
+}
+
+/* 
+    COMMA SEPARATED ELEMENTS IN CSS - allows you to apply styling to elements individually
+*/
+h1, h2 {
+    font-family: "Raleway", sans-serif;
+}
+
+p, li {
+    font-family: "Roboto", sans-serif;
+    color: #777777;
+    font-size: 1.6rem;
+    line-height: 1.5;
+}
+
+/* 
+    4rem = 4 * default-font-size(16px)
+*/
 h1 {
-    color: red;
+    font-size: 4rem;
+    text-align: center;
+    text-shadow: 2px 2px 16px black;
+}
+
+h2 {
+    font-size: 3rem;
+    text-align: center;
+}
+
+header {
+    margin-bottom: 10px;
+}
+
+main, header, nav, article, aside, footer, section {
+    padding: 1%;
+}
+
+nav {
+    height: 50px;
+}
+
+/* 
+    specifying elements WITHOUT commas means you are expecting the last element listed to be a child of the previous element listed
+*/
+nav ul {
+    /* 
+        "display: flex" allows for FLEXBOX properties to be applied to any element or child element with this display type
+
+        "justify-content" is a FLEXBOX property that allows you to position child elements based on the start and end of the flexbox element
+    */
+    display: flex;
+    justify-content: space-around;
+}
+
+nav li {
+    list-style-type: none;
+    text-align: center;
+}
+
+nav a {
+    text-transform: uppercase;
+    /* gets rid of default "a" tag styling */
+    text-decoration: none;
+}
+
+.albumContainer {
+    display: flex;
+    /* wrap elements inside of flex container */
+    flex-wrap: wrap;
+}
+
+.albumContainer img {
+    height: 200px;
+    padding: 20px;
 }

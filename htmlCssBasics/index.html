@@ -7,13 +7,40 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Raleway&family=Roboto&display=swap"
+      rel="stylesheet"
+    />
+    <!-- 
+        3 ways to style HTML files:
+
+        - <link> tag referencing a css file
+        - <style> tag used to apply styling to html elements directly inside of <head> tag
+        - using the "style" property in the html element to apply styling
+    -->
     <link rel="stylesheet" href="style.css" />
     <title>Music Blog</title>
+
+    <style>
+      body {
+        background-color: lightgreen;
+      }
+      h1 {
+        color: white;
+      }
+    </style>
   </head>
   <!--
     "body" tag holds elements/tags that will be displayed on the web browser
 -->
-  <body>
+  <!-- 
+    (FOR BELOW):
+
+    margin: top/bottom left/right
+-->
+  <body style="background-color: pink; margin: 0 auto">
     <header>
       <!-- h1 - h6 -->
       <h1>Music Blog</h1>
@@ -34,17 +61,6 @@
           <li><a href="#main">Welcome</a></li>
           <li><a href="#aside">Favorite Albums</a></li>
           <li><a href="#footer">Footer</a></li>
-        </ul>
-        <ul>
-          <li>
-            Blah
-            <ol>
-              <li>Blah</li>
-              <li>Blah</li>
-            </ol>
-          </li>
-          <li>Blah</li>
-          <li>Blah</li>
         </ul>
       </nav>
     </header>
@@ -90,22 +106,24 @@
         <aside id="aside">
           <h2>Favorite Albums</h2>
 
-          <a href="./assets/allEyezOnMe.jpeg" target="_blank"
-            ><img
-              src="./assets/allEyezOnMe.jpeg"
-              alt="all eyes on me album cover"
-          /></a>
-          <a href="./assets/channelOrange.jpg" target="_blank"
-            ><img src="./assets/channelOrange.jpg" alt="channel orange cover"
-          /></a>
-          <a href="./assets/inSearchOf.webp" target="_blank"
-            ><img src="./assets/inSearchOf.webp" alt="in search of cover"
-          /></a>
-          <a href="./assets/midnightMarauders.jpeg" target="_blank"
-            ><img
-              src="./assets/midnightMarauders.jpeg"
-              alt="midnight marauders album cover"
-          /></a>
+          <div class="albumContainer">
+            <a href="./assets/allEyezOnMe.jpeg" target="_blank"
+              ><img
+                src="./assets/allEyezOnMe.jpeg"
+                alt="all eyes on me album cover"
+            /></a>
+            <a href="./assets/channelOrange.jpg" target="_blank"
+              ><img src="./assets/channelOrange.jpg" alt="channel orange cover"
+            /></a>
+            <a href="./assets/inSearchOf.webp" target="_blank"
+              ><img src="./assets/inSearchOf.webp" alt="in search of cover"
+            /></a>
+            <a href="./assets/midnightMarauders.jpeg" target="_blank"
+              ><img
+                src="./assets/midnightMarauders.jpeg"
+                alt="midnight marauders album cover"
+            /></a>
+          </div>
         </aside>
       </main>
     </section>
