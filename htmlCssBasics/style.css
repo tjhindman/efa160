@@ -70,9 +70,14 @@ nav ul {
         "display: flex" allows for FLEXBOX properties to be applied to any element or child element with this display type
 
         "justify-content" is a FLEXBOX property that allows you to position child elements based on the start and end of the flexbox element
+            - affects MAIN axis of flex items
+
+        "align-items" affects CROSS axis of flex items (opposite axis of "flex-direction"
     */
+    height: 100px;
     display: flex;
     justify-content: space-around;
+    align-items: center;
 }
 
 nav li {
@@ -95,4 +100,18 @@ nav a {
 .albumContainer img {
     height: 200px;
     padding: 20px;
+    flex-grow: 1;
+}
+
+.albumContainer a {
+    flex-grow: 1;
+}
+
+#tupac {
+    order: 1;
+    flex-grow: 2;
+}
+
+#homeTab {
+    align-self: flex-start
 }
