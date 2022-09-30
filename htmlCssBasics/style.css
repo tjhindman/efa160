@@ -100,7 +100,6 @@ nav a {
 .albumContainer img {
     height: 200px;
     padding: 20px;
-    flex-grow: 1;
 }
 
 .albumContainer a {
