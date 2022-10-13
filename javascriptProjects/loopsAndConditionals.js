@@ -1,3 +1,13 @@
+function doSomething() {
+    const nameInput = document.getElementById("name");
+
+    // coming from line 126
+    // listNames(nameInput.value);
+    arrowListNames(nameInput.value)
+
+    nameInput.value = ""
+}
+
 const students = ["Jordan", "Fez", "Carly", "Buford", "Bulwinkle", "Freddy"]
 // students.length = 6
 
@@ -109,4 +119,36 @@ switch (character) {
     default:
         // basically like an "else" statement
         console.log("Idk you bro")
+}
+
+
+// ! FUNCTIONS IN JS
+
+// * "function" DECLARATION
+
+function listNames(name) {
+    const nameList = document.getElementById("nameList")
+
+    const listItem = document.createElement("li")
+
+    listItem.textContent = name
+
+    nameList.appendChild(listItem)
+}
+
+// * ARROW FUNCTION
+
+const arrowListNames = (name) => {
+    const nameList = document.getElementById("nameList")
+
+    const listItem = document.createElement("li")
+
+    listItem.textContent = name
+    // listItem.style = "font-size: 30px; font-family: 'Trebuchet MS';"
+
+    listItem.id = "itemId"
+    
+    listItem.className = "itemClass"
+
+    nameList.appendChild(listItem)
 }
