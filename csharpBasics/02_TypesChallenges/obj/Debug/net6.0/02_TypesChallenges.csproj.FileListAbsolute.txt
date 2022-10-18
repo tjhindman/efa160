@@ -1,0 +1,15 @@
+C:\EFA160_Key\efa160\csharpBasics\02_TypesChallenges\bin\Debug\net6.0\02_TypesChallenges.exe
+C:\EFA160_Key\efa160\csharpBasics\02_TypesChallenges\bin\Debug\net6.0\02_TypesChallenges.deps.json
+C:\EFA160_Key\efa160\csharpBasics\02_TypesChallenges\bin\Debug\net6.0\02_TypesChallenges.runtimeconfig.json
+C:\EFA160_Key\efa160\csharpBasics\02_TypesChallenges\bin\Debug\net6.0\02_TypesChallenges.dll
+C:\EFA160_Key\efa160\csharpBasics\02_TypesChallenges\bin\Debug\net6.0\ref\02_TypesChallenges.dll
+C:\EFA160_Key\efa160\csharpBasics\02_TypesChallenges\bin\Debug\net6.0\02_TypesChallenges.pdb
+C:\EFA160_Key\efa160\csharpBasics\02_TypesChallenges\obj\Debug\net6.0\02_TypesChallenges.csproj.AssemblyReference.cache
+C:\EFA160_Key\efa160\csharpBasics\02_TypesChallenges\obj\Debug\net6.0\02_TypesChallenges.GeneratedMSBuildEditorConfig.editorconfig
+C:\EFA160_Key\efa160\csharpBasics\02_TypesChallenges\obj\Debug\net6.0\02_TypesChallenges.AssemblyInfoInputs.cache
+C:\EFA160_Key\efa160\csharpBasics\02_TypesChallenges\obj\Debug\net6.0\02_TypesChallenges.AssemblyInfo.cs
+C:\EFA160_Key\efa160\csharpBasics\02_TypesChallenges\obj\Debug\net6.0\02_TypesChallenges.csproj.CoreCompileInputs.cache
+C:\EFA160_Key\efa160\csharpBasics\02_TypesChallenges\obj\Debug\net6.0\02_TypesChallenges.dll
+C:\EFA160_Key\efa160\csharpBasics\02_TypesChallenges\obj\Debug\net6.0\ref\02_TypesChallenges.dll
+C:\EFA160_Key\efa160\csharpBasics\02_TypesChallenges\obj\Debug\net6.0\02_TypesChallenges.pdb
+C:\EFA160_Key\efa160\csharpBasics\02_TypesChallenges\obj\Debug\net6.0\02_TypesChallenges.genruntimeconfig.cache

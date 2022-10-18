@@ -1,0 +1,15 @@
+C:\EFA160_Key\efa160\csharpBasics\HelloWorld\bin\Debug\net6.0\Hello_World.exe
+C:\EFA160_Key\efa160\csharpBasics\HelloWorld\bin\Debug\net6.0\Hello_World.deps.json
+C:\EFA160_Key\efa160\csharpBasics\HelloWorld\bin\Debug\net6.0\Hello_World.runtimeconfig.json
+C:\EFA160_Key\efa160\csharpBasics\HelloWorld\bin\Debug\net6.0\Hello_World.dll
+C:\EFA160_Key\efa160\csharpBasics\HelloWorld\bin\Debug\net6.0\ref\Hello_World.dll
+C:\EFA160_Key\efa160\csharpBasics\HelloWorld\bin\Debug\net6.0\Hello_World.pdb
+C:\EFA160_Key\efa160\csharpBasics\HelloWorld\obj\Debug\net6.0\Hello_World.csproj.AssemblyReference.cache
+C:\EFA160_Key\efa160\csharpBasics\HelloWorld\obj\Debug\net6.0\Hello_World.GeneratedMSBuildEditorConfig.editorconfig
+C:\EFA160_Key\efa160\csharpBasics\HelloWorld\obj\Debug\net6.0\Hello_World.AssemblyInfoInputs.cache
+C:\EFA160_Key\efa160\csharpBasics\HelloWorld\obj\Debug\net6.0\Hello_World.AssemblyInfo.cs
+C:\EFA160_Key\efa160\csharpBasics\HelloWorld\obj\Debug\net6.0\Hello_World.csproj.CoreCompileInputs.cache
+C:\EFA160_Key\efa160\csharpBasics\HelloWorld\obj\Debug\net6.0\Hello_World.dll
+C:\EFA160_Key\efa160\csharpBasics\HelloWorld\obj\Debug\net6.0\ref\Hello_World.dll
+C:\EFA160_Key\efa160\csharpBasics\HelloWorld\obj\Debug\net6.0\Hello_World.pdb
+C:\EFA160_Key\efa160\csharpBasics\HelloWorld\obj\Debug\net6.0\Hello_World.genruntimeconfig.cache

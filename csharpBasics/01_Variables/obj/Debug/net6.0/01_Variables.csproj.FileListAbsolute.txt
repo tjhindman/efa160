@@ -1,0 +1,15 @@
+C:\EFA160_Key\efa160\csharpBasics\01_Variables\bin\Debug\net6.0\01_Variables.exe
+C:\EFA160_Key\efa160\csharpBasics\01_Variables\bin\Debug\net6.0\01_Variables.deps.json
+C:\EFA160_Key\efa160\csharpBasics\01_Variables\bin\Debug\net6.0\01_Variables.runtimeconfig.json
+C:\EFA160_Key\efa160\csharpBasics\01_Variables\bin\Debug\net6.0\01_Variables.dll
+C:\EFA160_Key\efa160\csharpBasics\01_Variables\bin\Debug\net6.0\ref\01_Variables.dll
+C:\EFA160_Key\efa160\csharpBasics\01_Variables\bin\Debug\net6.0\01_Variables.pdb
+C:\EFA160_Key\efa160\csharpBasics\01_Variables\obj\Debug\net6.0\01_Variables.csproj.AssemblyReference.cache
+C:\EFA160_Key\efa160\csharpBasics\01_Variables\obj\Debug\net6.0\01_Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\EFA160_Key\efa160\csharpBasics\01_Variables\obj\Debug\net6.0\01_Variables.AssemblyInfoInputs.cache
+C:\EFA160_Key\efa160\csharpBasics\01_Variables\obj\Debug\net6.0\01_Variables.AssemblyInfo.cs
+C:\EFA160_Key\efa160\csharpBasics\01_Variables\obj\Debug\net6.0\01_Variables.csproj.CoreCompileInputs.cache
+C:\EFA160_Key\efa160\csharpBasics\01_Variables\obj\Debug\net6.0\01_Variables.dll
+C:\EFA160_Key\efa160\csharpBasics\01_Variables\obj\Debug\net6.0\ref\01_Variables.dll
+C:\EFA160_Key\efa160\csharpBasics\01_Variables\obj\Debug\net6.0\01_Variables.pdb
+C:\EFA160_Key\efa160\csharpBasics\01_Variables\obj\Debug\net6.0\01_Variables.genruntimeconfig.cache

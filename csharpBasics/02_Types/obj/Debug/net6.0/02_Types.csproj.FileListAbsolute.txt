@@ -1,0 +1,15 @@
+C:\EFA160_Key\efa160\csharpBasics\02_Types\bin\Debug\net6.0\02_Types.exe
+C:\EFA160_Key\efa160\csharpBasics\02_Types\bin\Debug\net6.0\02_Types.deps.json
+C:\EFA160_Key\efa160\csharpBasics\02_Types\bin\Debug\net6.0\02_Types.runtimeconfig.json
+C:\EFA160_Key\efa160\csharpBasics\02_Types\bin\Debug\net6.0\02_Types.dll
+C:\EFA160_Key\efa160\csharpBasics\02_Types\bin\Debug\net6.0\ref\02_Types.dll
+C:\EFA160_Key\efa160\csharpBasics\02_Types\bin\Debug\net6.0\02_Types.pdb
+C:\EFA160_Key\efa160\csharpBasics\02_Types\obj\Debug\net6.0\02_Types.csproj.AssemblyReference.cache
+C:\EFA160_Key\efa160\csharpBasics\02_Types\obj\Debug\net6.0\02_Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\EFA160_Key\efa160\csharpBasics\02_Types\obj\Debug\net6.0\02_Types.AssemblyInfoInputs.cache
+C:\EFA160_Key\efa160\csharpBasics\02_Types\obj\Debug\net6.0\02_Types.AssemblyInfo.cs
+C:\EFA160_Key\efa160\csharpBasics\02_Types\obj\Debug\net6.0\02_Types.csproj.CoreCompileInputs.cache
+C:\EFA160_Key\efa160\csharpBasics\02_Types\obj\Debug\net6.0\02_Types.dll
+C:\EFA160_Key\efa160\csharpBasics\02_Types\obj\Debug\net6.0\ref\02_Types.dll
+C:\EFA160_Key\efa160\csharpBasics\02_Types\obj\Debug\net6.0\02_Types.pdb
+C:\EFA160_Key\efa160\csharpBasics\02_Types\obj\Debug\net6.0\02_Types.genruntimeconfig.cache
