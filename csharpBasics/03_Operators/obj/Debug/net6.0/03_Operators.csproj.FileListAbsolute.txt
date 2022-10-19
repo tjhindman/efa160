@@ -1,0 +1,15 @@
+C:\EFA160_Key\efa160\csharpBasics\03_Operators\bin\Debug\net6.0\03_Operators.exe
+C:\EFA160_Key\efa160\csharpBasics\03_Operators\bin\Debug\net6.0\03_Operators.deps.json
+C:\EFA160_Key\efa160\csharpBasics\03_Operators\bin\Debug\net6.0\03_Operators.runtimeconfig.json
+C:\EFA160_Key\efa160\csharpBasics\03_Operators\bin\Debug\net6.0\03_Operators.dll
+C:\EFA160_Key\efa160\csharpBasics\03_Operators\bin\Debug\net6.0\ref\03_Operators.dll
+C:\EFA160_Key\efa160\csharpBasics\03_Operators\bin\Debug\net6.0\03_Operators.pdb
+C:\EFA160_Key\efa160\csharpBasics\03_Operators\obj\Debug\net6.0\03_Operators.csproj.AssemblyReference.cache
+C:\EFA160_Key\efa160\csharpBasics\03_Operators\obj\Debug\net6.0\03_Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\EFA160_Key\efa160\csharpBasics\03_Operators\obj\Debug\net6.0\03_Operators.AssemblyInfoInputs.cache
+C:\EFA160_Key\efa160\csharpBasics\03_Operators\obj\Debug\net6.0\03_Operators.AssemblyInfo.cs
+C:\EFA160_Key\efa160\csharpBasics\03_Operators\obj\Debug\net6.0\03_Operators.csproj.CoreCompileInputs.cache
+C:\EFA160_Key\efa160\csharpBasics\03_Operators\obj\Debug\net6.0\03_Operators.dll
+C:\EFA160_Key\efa160\csharpBasics\03_Operators\obj\Debug\net6.0\ref\03_Operators.dll
+C:\EFA160_Key\efa160\csharpBasics\03_Operators\obj\Debug\net6.0\03_Operators.pdb
+C:\EFA160_Key\efa160\csharpBasics\03_Operators\obj\Debug\net6.0\03_Operators.genruntimeconfig.cache

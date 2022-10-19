@@ -1,0 +1,15 @@
+C:\EFA160_Key\efa160\csharpBasics\04_Strings\bin\Debug\net6.0\04_Strings.exe
+C:\EFA160_Key\efa160\csharpBasics\04_Strings\bin\Debug\net6.0\04_Strings.deps.json
+C:\EFA160_Key\efa160\csharpBasics\04_Strings\bin\Debug\net6.0\04_Strings.runtimeconfig.json
+C:\EFA160_Key\efa160\csharpBasics\04_Strings\bin\Debug\net6.0\04_Strings.dll
+C:\EFA160_Key\efa160\csharpBasics\04_Strings\bin\Debug\net6.0\ref\04_Strings.dll
+C:\EFA160_Key\efa160\csharpBasics\04_Strings\bin\Debug\net6.0\04_Strings.pdb
+C:\EFA160_Key\efa160\csharpBasics\04_Strings\obj\Debug\net6.0\04_Strings.csproj.AssemblyReference.cache
+C:\EFA160_Key\efa160\csharpBasics\04_Strings\obj\Debug\net6.0\04_Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\EFA160_Key\efa160\csharpBasics\04_Strings\obj\Debug\net6.0\04_Strings.AssemblyInfoInputs.cache
+C:\EFA160_Key\efa160\csharpBasics\04_Strings\obj\Debug\net6.0\04_Strings.AssemblyInfo.cs
+C:\EFA160_Key\efa160\csharpBasics\04_Strings\obj\Debug\net6.0\04_Strings.csproj.CoreCompileInputs.cache
+C:\EFA160_Key\efa160\csharpBasics\04_Strings\obj\Debug\net6.0\04_Strings.dll
+C:\EFA160_Key\efa160\csharpBasics\04_Strings\obj\Debug\net6.0\ref\04_Strings.dll
+C:\EFA160_Key\efa160\csharpBasics\04_Strings\obj\Debug\net6.0\04_Strings.pdb
+C:\EFA160_Key\efa160\csharpBasics\04_Strings\obj\Debug\net6.0\04_Strings.genruntimeconfig.cache

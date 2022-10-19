@@ -1,0 +1,15 @@
+C:\EFA160_Key\efa160\csharpBasics\05_Booleans\bin\Debug\net6.0\05_Booleans.exe
+C:\EFA160_Key\efa160\csharpBasics\05_Booleans\bin\Debug\net6.0\05_Booleans.deps.json
+C:\EFA160_Key\efa160\csharpBasics\05_Booleans\bin\Debug\net6.0\05_Booleans.runtimeconfig.json
+C:\EFA160_Key\efa160\csharpBasics\05_Booleans\bin\Debug\net6.0\05_Booleans.dll
+C:\EFA160_Key\efa160\csharpBasics\05_Booleans\bin\Debug\net6.0\ref\05_Booleans.dll
+C:\EFA160_Key\efa160\csharpBasics\05_Booleans\bin\Debug\net6.0\05_Booleans.pdb
+C:\EFA160_Key\efa160\csharpBasics\05_Booleans\obj\Debug\net6.0\05_Booleans.csproj.AssemblyReference.cache
+C:\EFA160_Key\efa160\csharpBasics\05_Booleans\obj\Debug\net6.0\05_Booleans.GeneratedMSBuildEditorConfig.editorconfig
+C:\EFA160_Key\efa160\csharpBasics\05_Booleans\obj\Debug\net6.0\05_Booleans.AssemblyInfoInputs.cache
+C:\EFA160_Key\efa160\csharpBasics\05_Booleans\obj\Debug\net6.0\05_Booleans.AssemblyInfo.cs
+C:\EFA160_Key\efa160\csharpBasics\05_Booleans\obj\Debug\net6.0\05_Booleans.csproj.CoreCompileInputs.cache
+C:\EFA160_Key\efa160\csharpBasics\05_Booleans\obj\Debug\net6.0\05_Booleans.dll
+C:\EFA160_Key\efa160\csharpBasics\05_Booleans\obj\Debug\net6.0\ref\05_Booleans.dll
+C:\EFA160_Key\efa160\csharpBasics\05_Booleans\obj\Debug\net6.0\05_Booleans.pdb
+C:\EFA160_Key\efa160\csharpBasics\05_Booleans\obj\Debug\net6.0\05_Booleans.genruntimeconfig.cache
