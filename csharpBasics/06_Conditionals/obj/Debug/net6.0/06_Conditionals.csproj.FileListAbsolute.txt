@@ -1,0 +1,15 @@
+C:\EFA160_Key\efa160\csharpBasics\06_Conditionals\bin\Debug\net6.0\06_Conditionals.exe
+C:\EFA160_Key\efa160\csharpBasics\06_Conditionals\bin\Debug\net6.0\06_Conditionals.deps.json
+C:\EFA160_Key\efa160\csharpBasics\06_Conditionals\bin\Debug\net6.0\06_Conditionals.runtimeconfig.json
+C:\EFA160_Key\efa160\csharpBasics\06_Conditionals\bin\Debug\net6.0\06_Conditionals.dll
+C:\EFA160_Key\efa160\csharpBasics\06_Conditionals\bin\Debug\net6.0\ref\06_Conditionals.dll
+C:\EFA160_Key\efa160\csharpBasics\06_Conditionals\bin\Debug\net6.0\06_Conditionals.pdb
+C:\EFA160_Key\efa160\csharpBasics\06_Conditionals\obj\Debug\net6.0\06_Conditionals.csproj.AssemblyReference.cache
+C:\EFA160_Key\efa160\csharpBasics\06_Conditionals\obj\Debug\net6.0\06_Conditionals.GeneratedMSBuildEditorConfig.editorconfig
+C:\EFA160_Key\efa160\csharpBasics\06_Conditionals\obj\Debug\net6.0\06_Conditionals.AssemblyInfoInputs.cache
+C:\EFA160_Key\efa160\csharpBasics\06_Conditionals\obj\Debug\net6.0\06_Conditionals.AssemblyInfo.cs
+C:\EFA160_Key\efa160\csharpBasics\06_Conditionals\obj\Debug\net6.0\06_Conditionals.csproj.CoreCompileInputs.cache
+C:\EFA160_Key\efa160\csharpBasics\06_Conditionals\obj\Debug\net6.0\06_Conditionals.dll
+C:\EFA160_Key\efa160\csharpBasics\06_Conditionals\obj\Debug\net6.0\ref\06_Conditionals.dll
+C:\EFA160_Key\efa160\csharpBasics\06_Conditionals\obj\Debug\net6.0\06_Conditionals.pdb
+C:\EFA160_Key\efa160\csharpBasics\06_Conditionals\obj\Debug\net6.0\06_Conditionals.genruntimeconfig.cache

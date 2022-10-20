@@ -1,0 +1,15 @@
+C:\EFA160_Key\efa160\csharpBasics\06_Tenaries\bin\Debug\net6.0\06_Tenaries.exe
+C:\EFA160_Key\efa160\csharpBasics\06_Tenaries\bin\Debug\net6.0\06_Tenaries.deps.json
+C:\EFA160_Key\efa160\csharpBasics\06_Tenaries\bin\Debug\net6.0\06_Tenaries.runtimeconfig.json
+C:\EFA160_Key\efa160\csharpBasics\06_Tenaries\bin\Debug\net6.0\06_Tenaries.dll
+C:\EFA160_Key\efa160\csharpBasics\06_Tenaries\bin\Debug\net6.0\ref\06_Tenaries.dll
+C:\EFA160_Key\efa160\csharpBasics\06_Tenaries\bin\Debug\net6.0\06_Tenaries.pdb
+C:\EFA160_Key\efa160\csharpBasics\06_Tenaries\obj\Debug\net6.0\06_Tenaries.csproj.AssemblyReference.cache
+C:\EFA160_Key\efa160\csharpBasics\06_Tenaries\obj\Debug\net6.0\06_Tenaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\EFA160_Key\efa160\csharpBasics\06_Tenaries\obj\Debug\net6.0\06_Tenaries.AssemblyInfoInputs.cache
+C:\EFA160_Key\efa160\csharpBasics\06_Tenaries\obj\Debug\net6.0\06_Tenaries.AssemblyInfo.cs
+C:\EFA160_Key\efa160\csharpBasics\06_Tenaries\obj\Debug\net6.0\06_Tenaries.csproj.CoreCompileInputs.cache
+C:\EFA160_Key\efa160\csharpBasics\06_Tenaries\obj\Debug\net6.0\06_Tenaries.dll
+C:\EFA160_Key\efa160\csharpBasics\06_Tenaries\obj\Debug\net6.0\ref\06_Tenaries.dll
+C:\EFA160_Key\efa160\csharpBasics\06_Tenaries\obj\Debug\net6.0\06_Tenaries.pdb
+C:\EFA160_Key\efa160\csharpBasics\06_Tenaries\obj\Debug\net6.0\06_Tenaries.genruntimeconfig.cache

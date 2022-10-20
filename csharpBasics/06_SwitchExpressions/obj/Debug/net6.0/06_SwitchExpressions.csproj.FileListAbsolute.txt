@@ -1,0 +1,15 @@
+C:\EFA160_Key\efa160\csharpBasics\06_SwitchExpressions\bin\Debug\net6.0\06_SwitchExpressions.exe
+C:\EFA160_Key\efa160\csharpBasics\06_SwitchExpressions\bin\Debug\net6.0\06_SwitchExpressions.deps.json
+C:\EFA160_Key\efa160\csharpBasics\06_SwitchExpressions\bin\Debug\net6.0\06_SwitchExpressions.runtimeconfig.json
+C:\EFA160_Key\efa160\csharpBasics\06_SwitchExpressions\bin\Debug\net6.0\06_SwitchExpressions.dll
+C:\EFA160_Key\efa160\csharpBasics\06_SwitchExpressions\bin\Debug\net6.0\ref\06_SwitchExpressions.dll
+C:\EFA160_Key\efa160\csharpBasics\06_SwitchExpressions\bin\Debug\net6.0\06_SwitchExpressions.pdb
+C:\EFA160_Key\efa160\csharpBasics\06_SwitchExpressions\obj\Debug\net6.0\06_SwitchExpressions.csproj.AssemblyReference.cache
+C:\EFA160_Key\efa160\csharpBasics\06_SwitchExpressions\obj\Debug\net6.0\06_SwitchExpressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\EFA160_Key\efa160\csharpBasics\06_SwitchExpressions\obj\Debug\net6.0\06_SwitchExpressions.AssemblyInfoInputs.cache
+C:\EFA160_Key\efa160\csharpBasics\06_SwitchExpressions\obj\Debug\net6.0\06_SwitchExpressions.AssemblyInfo.cs
+C:\EFA160_Key\efa160\csharpBasics\06_SwitchExpressions\obj\Debug\net6.0\06_SwitchExpressions.csproj.CoreCompileInputs.cache
+C:\EFA160_Key\efa160\csharpBasics\06_SwitchExpressions\obj\Debug\net6.0\06_SwitchExpressions.dll
+C:\EFA160_Key\efa160\csharpBasics\06_SwitchExpressions\obj\Debug\net6.0\ref\06_SwitchExpressions.dll
+C:\EFA160_Key\efa160\csharpBasics\06_SwitchExpressions\obj\Debug\net6.0\06_SwitchExpressions.pdb
+C:\EFA160_Key\efa160\csharpBasics\06_SwitchExpressions\obj\Debug\net6.0\06_SwitchExpressions.genruntimeconfig.cache

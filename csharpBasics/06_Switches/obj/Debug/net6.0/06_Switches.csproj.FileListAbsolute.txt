@@ -1,0 +1,15 @@
+C:\EFA160_Key\efa160\csharpBasics\06_Switches\bin\Debug\net6.0\06_Switches.exe
+C:\EFA160_Key\efa160\csharpBasics\06_Switches\bin\Debug\net6.0\06_Switches.deps.json
+C:\EFA160_Key\efa160\csharpBasics\06_Switches\bin\Debug\net6.0\06_Switches.runtimeconfig.json
+C:\EFA160_Key\efa160\csharpBasics\06_Switches\bin\Debug\net6.0\06_Switches.dll
+C:\EFA160_Key\efa160\csharpBasics\06_Switches\bin\Debug\net6.0\ref\06_Switches.dll
+C:\EFA160_Key\efa160\csharpBasics\06_Switches\bin\Debug\net6.0\06_Switches.pdb
+C:\EFA160_Key\efa160\csharpBasics\06_Switches\obj\Debug\net6.0\06_Switches.csproj.AssemblyReference.cache
+C:\EFA160_Key\efa160\csharpBasics\06_Switches\obj\Debug\net6.0\06_Switches.GeneratedMSBuildEditorConfig.editorconfig
+C:\EFA160_Key\efa160\csharpBasics\06_Switches\obj\Debug\net6.0\06_Switches.AssemblyInfoInputs.cache
+C:\EFA160_Key\efa160\csharpBasics\06_Switches\obj\Debug\net6.0\06_Switches.AssemblyInfo.cs
+C:\EFA160_Key\efa160\csharpBasics\06_Switches\obj\Debug\net6.0\06_Switches.csproj.CoreCompileInputs.cache
+C:\EFA160_Key\efa160\csharpBasics\06_Switches\obj\Debug\net6.0\06_Switches.dll
+C:\EFA160_Key\efa160\csharpBasics\06_Switches\obj\Debug\net6.0\ref\06_Switches.dll
+C:\EFA160_Key\efa160\csharpBasics\06_Switches\obj\Debug\net6.0\06_Switches.pdb
+C:\EFA160_Key\efa160\csharpBasics\06_Switches\obj\Debug\net6.0\06_Switches.genruntimeconfig.cache

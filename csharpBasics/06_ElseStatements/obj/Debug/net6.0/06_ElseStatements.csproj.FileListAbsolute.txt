@@ -1,0 +1,15 @@
+C:\EFA160_Key\efa160\csharpBasics\06_ElseStatements\bin\Debug\net6.0\06_ElseStatements.exe
+C:\EFA160_Key\efa160\csharpBasics\06_ElseStatements\bin\Debug\net6.0\06_ElseStatements.deps.json
+C:\EFA160_Key\efa160\csharpBasics\06_ElseStatements\bin\Debug\net6.0\06_ElseStatements.runtimeconfig.json
+C:\EFA160_Key\efa160\csharpBasics\06_ElseStatements\bin\Debug\net6.0\06_ElseStatements.dll
+C:\EFA160_Key\efa160\csharpBasics\06_ElseStatements\bin\Debug\net6.0\ref\06_ElseStatements.dll
+C:\EFA160_Key\efa160\csharpBasics\06_ElseStatements\bin\Debug\net6.0\06_ElseStatements.pdb
+C:\EFA160_Key\efa160\csharpBasics\06_ElseStatements\obj\Debug\net6.0\06_ElseStatements.csproj.AssemblyReference.cache
+C:\EFA160_Key\efa160\csharpBasics\06_ElseStatements\obj\Debug\net6.0\06_ElseStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\EFA160_Key\efa160\csharpBasics\06_ElseStatements\obj\Debug\net6.0\06_ElseStatements.AssemblyInfoInputs.cache
+C:\EFA160_Key\efa160\csharpBasics\06_ElseStatements\obj\Debug\net6.0\06_ElseStatements.AssemblyInfo.cs
+C:\EFA160_Key\efa160\csharpBasics\06_ElseStatements\obj\Debug\net6.0\06_ElseStatements.csproj.CoreCompileInputs.cache
+C:\EFA160_Key\efa160\csharpBasics\06_ElseStatements\obj\Debug\net6.0\06_ElseStatements.dll
+C:\EFA160_Key\efa160\csharpBasics\06_ElseStatements\obj\Debug\net6.0\ref\06_ElseStatements.dll
+C:\EFA160_Key\efa160\csharpBasics\06_ElseStatements\obj\Debug\net6.0\06_ElseStatements.pdb
+C:\EFA160_Key\efa160\csharpBasics\06_ElseStatements\obj\Debug\net6.0\06_ElseStatements.genruntimeconfig.cache
