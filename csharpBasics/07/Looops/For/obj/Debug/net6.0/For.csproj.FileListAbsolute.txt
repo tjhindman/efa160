@@ -1,0 +1,15 @@
+C:\EFA160_Key\efa160\csharpBasics\07\Looops\For\bin\Debug\net6.0\For.exe
+C:\EFA160_Key\efa160\csharpBasics\07\Looops\For\bin\Debug\net6.0\For.deps.json
+C:\EFA160_Key\efa160\csharpBasics\07\Looops\For\bin\Debug\net6.0\For.runtimeconfig.json
+C:\EFA160_Key\efa160\csharpBasics\07\Looops\For\bin\Debug\net6.0\For.dll
+C:\EFA160_Key\efa160\csharpBasics\07\Looops\For\bin\Debug\net6.0\ref\For.dll
+C:\EFA160_Key\efa160\csharpBasics\07\Looops\For\bin\Debug\net6.0\For.pdb
+C:\EFA160_Key\efa160\csharpBasics\07\Looops\For\obj\Debug\net6.0\For.csproj.AssemblyReference.cache
+C:\EFA160_Key\efa160\csharpBasics\07\Looops\For\obj\Debug\net6.0\For.GeneratedMSBuildEditorConfig.editorconfig
+C:\EFA160_Key\efa160\csharpBasics\07\Looops\For\obj\Debug\net6.0\For.AssemblyInfoInputs.cache
+C:\EFA160_Key\efa160\csharpBasics\07\Looops\For\obj\Debug\net6.0\For.AssemblyInfo.cs
+C:\EFA160_Key\efa160\csharpBasics\07\Looops\For\obj\Debug\net6.0\For.csproj.CoreCompileInputs.cache
+C:\EFA160_Key\efa160\csharpBasics\07\Looops\For\obj\Debug\net6.0\For.dll
+C:\EFA160_Key\efa160\csharpBasics\07\Looops\For\obj\Debug\net6.0\ref\For.dll
+C:\EFA160_Key\efa160\csharpBasics\07\Looops\For\obj\Debug\net6.0\For.pdb
+C:\EFA160_Key\efa160\csharpBasics\07\Looops\For\obj\Debug\net6.0\For.genruntimeconfig.cache

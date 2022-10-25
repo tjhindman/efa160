@@ -1,0 +1,15 @@
+C:\EFA160_Key\efa160\csharpBasics\07\Looops\ForLoopChallenges\bin\Debug\net6.0\Challenges.exe
+C:\EFA160_Key\efa160\csharpBasics\07\Looops\ForLoopChallenges\bin\Debug\net6.0\Challenges.deps.json
+C:\EFA160_Key\efa160\csharpBasics\07\Looops\ForLoopChallenges\bin\Debug\net6.0\Challenges.runtimeconfig.json
+C:\EFA160_Key\efa160\csharpBasics\07\Looops\ForLoopChallenges\bin\Debug\net6.0\Challenges.dll
+C:\EFA160_Key\efa160\csharpBasics\07\Looops\ForLoopChallenges\bin\Debug\net6.0\ref\Challenges.dll
+C:\EFA160_Key\efa160\csharpBasics\07\Looops\ForLoopChallenges\bin\Debug\net6.0\Challenges.pdb
+C:\EFA160_Key\efa160\csharpBasics\07\Looops\ForLoopChallenges\obj\Debug\net6.0\Challenges.csproj.AssemblyReference.cache
+C:\EFA160_Key\efa160\csharpBasics\07\Looops\ForLoopChallenges\obj\Debug\net6.0\Challenges.GeneratedMSBuildEditorConfig.editorconfig
+C:\EFA160_Key\efa160\csharpBasics\07\Looops\ForLoopChallenges\obj\Debug\net6.0\Challenges.AssemblyInfoInputs.cache
+C:\EFA160_Key\efa160\csharpBasics\07\Looops\ForLoopChallenges\obj\Debug\net6.0\Challenges.AssemblyInfo.cs
+C:\EFA160_Key\efa160\csharpBasics\07\Looops\ForLoopChallenges\obj\Debug\net6.0\Challenges.csproj.CoreCompileInputs.cache
+C:\EFA160_Key\efa160\csharpBasics\07\Looops\ForLoopChallenges\obj\Debug\net6.0\Challenges.dll
+C:\EFA160_Key\efa160\csharpBasics\07\Looops\ForLoopChallenges\obj\Debug\net6.0\ref\Challenges.dll
+C:\EFA160_Key\efa160\csharpBasics\07\Looops\ForLoopChallenges\obj\Debug\net6.0\Challenges.pdb
+C:\EFA160_Key\efa160\csharpBasics\07\Looops\ForLoopChallenges\obj\Debug\net6.0\Challenges.genruntimeconfig.cache

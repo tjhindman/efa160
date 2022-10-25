@@ -1,0 +1,15 @@
+C:\EFA160_Key\efa160\csharpBasics\07\Collections\Collections\bin\Debug\net6.0\Collections.Generic.exe
+C:\EFA160_Key\efa160\csharpBasics\07\Collections\Collections\bin\Debug\net6.0\Collections.Generic.deps.json
+C:\EFA160_Key\efa160\csharpBasics\07\Collections\Collections\bin\Debug\net6.0\Collections.Generic.runtimeconfig.json
+C:\EFA160_Key\efa160\csharpBasics\07\Collections\Collections\bin\Debug\net6.0\Collections.Generic.dll
+C:\EFA160_Key\efa160\csharpBasics\07\Collections\Collections\bin\Debug\net6.0\ref\Collections.Generic.dll
+C:\EFA160_Key\efa160\csharpBasics\07\Collections\Collections\bin\Debug\net6.0\Collections.Generic.pdb
+C:\EFA160_Key\efa160\csharpBasics\07\Collections\Collections\obj\Debug\net6.0\Collections.Generic.csproj.AssemblyReference.cache
+C:\EFA160_Key\efa160\csharpBasics\07\Collections\Collections\obj\Debug\net6.0\Collections.Generic.GeneratedMSBuildEditorConfig.editorconfig
+C:\EFA160_Key\efa160\csharpBasics\07\Collections\Collections\obj\Debug\net6.0\Collections.Generic.AssemblyInfoInputs.cache
+C:\EFA160_Key\efa160\csharpBasics\07\Collections\Collections\obj\Debug\net6.0\Collections.Generic.AssemblyInfo.cs
+C:\EFA160_Key\efa160\csharpBasics\07\Collections\Collections\obj\Debug\net6.0\Collections.Generic.csproj.CoreCompileInputs.cache
+C:\EFA160_Key\efa160\csharpBasics\07\Collections\Collections\obj\Debug\net6.0\Collections.Generic.dll
+C:\EFA160_Key\efa160\csharpBasics\07\Collections\Collections\obj\Debug\net6.0\ref\Collections.Generic.dll
+C:\EFA160_Key\efa160\csharpBasics\07\Collections\Collections\obj\Debug\net6.0\Collections.Generic.pdb
+C:\EFA160_Key\efa160\csharpBasics\07\Collections\Collections\obj\Debug\net6.0\Collections.Generic.genruntimeconfig.cache

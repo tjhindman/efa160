@@ -1,0 +1,15 @@
+C:\EFA160_Key\efa160\csharpBasics\08_Classes\08_Properties\obj\Debug\net6.0\Properties.csproj.AssemblyReference.cache
+C:\EFA160_Key\efa160\csharpBasics\08_Classes\08_Properties\obj\Debug\net6.0\Properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\EFA160_Key\efa160\csharpBasics\08_Classes\08_Properties\obj\Debug\net6.0\Properties.AssemblyInfoInputs.cache
+C:\EFA160_Key\efa160\csharpBasics\08_Classes\08_Properties\obj\Debug\net6.0\Properties.AssemblyInfo.cs
+C:\EFA160_Key\efa160\csharpBasics\08_Classes\08_Properties\obj\Debug\net6.0\Properties.csproj.CoreCompileInputs.cache
+C:\EFA160_Key\efa160\csharpBasics\08_Classes\08_Properties\bin\Debug\net6.0\Properties.exe
+C:\EFA160_Key\efa160\csharpBasics\08_Classes\08_Properties\bin\Debug\net6.0\Properties.deps.json
+C:\EFA160_Key\efa160\csharpBasics\08_Classes\08_Properties\bin\Debug\net6.0\Properties.runtimeconfig.json
+C:\EFA160_Key\efa160\csharpBasics\08_Classes\08_Properties\bin\Debug\net6.0\Properties.dll
+C:\EFA160_Key\efa160\csharpBasics\08_Classes\08_Properties\bin\Debug\net6.0\ref\Properties.dll
+C:\EFA160_Key\efa160\csharpBasics\08_Classes\08_Properties\bin\Debug\net6.0\Properties.pdb
+C:\EFA160_Key\efa160\csharpBasics\08_Classes\08_Properties\obj\Debug\net6.0\Properties.dll
+C:\EFA160_Key\efa160\csharpBasics\08_Classes\08_Properties\obj\Debug\net6.0\ref\Properties.dll
+C:\EFA160_Key\efa160\csharpBasics\08_Classes\08_Properties\obj\Debug\net6.0\Properties.pdb
+C:\EFA160_Key\efa160\csharpBasics\08_Classes\08_Properties\obj\Debug\net6.0\Properties.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\EFA160_Key\efa160\csharpBasics\08_Classes\Constructor\bin\Debug\net6.0\08_Constructor.exe
+C:\EFA160_Key\efa160\csharpBasics\08_Classes\Constructor\bin\Debug\net6.0\08_Constructor.deps.json
+C:\EFA160_Key\efa160\csharpBasics\08_Classes\Constructor\bin\Debug\net6.0\08_Constructor.runtimeconfig.json
+C:\EFA160_Key\efa160\csharpBasics\08_Classes\Constructor\bin\Debug\net6.0\08_Constructor.dll
+C:\EFA160_Key\efa160\csharpBasics\08_Classes\Constructor\bin\Debug\net6.0\ref\08_Constructor.dll
+C:\EFA160_Key\efa160\csharpBasics\08_Classes\Constructor\bin\Debug\net6.0\08_Constructor.pdb
+C:\EFA160_Key\efa160\csharpBasics\08_Classes\Constructor\obj\Debug\net6.0\08_Constructor.csproj.AssemblyReference.cache
+C:\EFA160_Key\efa160\csharpBasics\08_Classes\Constructor\obj\Debug\net6.0\08_Constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\EFA160_Key\efa160\csharpBasics\08_Classes\Constructor\obj\Debug\net6.0\08_Constructor.AssemblyInfoInputs.cache
+C:\EFA160_Key\efa160\csharpBasics\08_Classes\Constructor\obj\Debug\net6.0\08_Constructor.AssemblyInfo.cs
+C:\EFA160_Key\efa160\csharpBasics\08_Classes\Constructor\obj\Debug\net6.0\08_Constructor.csproj.CoreCompileInputs.cache
+C:\EFA160_Key\efa160\csharpBasics\08_Classes\Constructor\obj\Debug\net6.0\08_Constructor.dll
+C:\EFA160_Key\efa160\csharpBasics\08_Classes\Constructor\obj\Debug\net6.0\ref\08_Constructor.dll
+C:\EFA160_Key\efa160\csharpBasics\08_Classes\Constructor\obj\Debug\net6.0\08_Constructor.pdb
+C:\EFA160_Key\efa160\csharpBasics\08_Classes\Constructor\obj\Debug\net6.0\08_Constructor.genruntimeconfig.cache
