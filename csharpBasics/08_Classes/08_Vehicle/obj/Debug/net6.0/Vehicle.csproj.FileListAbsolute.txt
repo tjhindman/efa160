@@ -1,0 +1,15 @@
+C:\EFA160_Key\efa160\csharpBasics\08_Classes\08_Vehicle\bin\Debug\net6.0\Vehicle.exe
+C:\EFA160_Key\efa160\csharpBasics\08_Classes\08_Vehicle\bin\Debug\net6.0\Vehicle.deps.json
+C:\EFA160_Key\efa160\csharpBasics\08_Classes\08_Vehicle\bin\Debug\net6.0\Vehicle.runtimeconfig.json
+C:\EFA160_Key\efa160\csharpBasics\08_Classes\08_Vehicle\bin\Debug\net6.0\Vehicle.dll
+C:\EFA160_Key\efa160\csharpBasics\08_Classes\08_Vehicle\bin\Debug\net6.0\ref\Vehicle.dll
+C:\EFA160_Key\efa160\csharpBasics\08_Classes\08_Vehicle\bin\Debug\net6.0\Vehicle.pdb
+C:\EFA160_Key\efa160\csharpBasics\08_Classes\08_Vehicle\obj\Debug\net6.0\Vehicle.csproj.AssemblyReference.cache
+C:\EFA160_Key\efa160\csharpBasics\08_Classes\08_Vehicle\obj\Debug\net6.0\Vehicle.GeneratedMSBuildEditorConfig.editorconfig
+C:\EFA160_Key\efa160\csharpBasics\08_Classes\08_Vehicle\obj\Debug\net6.0\Vehicle.AssemblyInfoInputs.cache
+C:\EFA160_Key\efa160\csharpBasics\08_Classes\08_Vehicle\obj\Debug\net6.0\Vehicle.AssemblyInfo.cs
+C:\EFA160_Key\efa160\csharpBasics\08_Classes\08_Vehicle\obj\Debug\net6.0\Vehicle.csproj.CoreCompileInputs.cache
+C:\EFA160_Key\efa160\csharpBasics\08_Classes\08_Vehicle\obj\Debug\net6.0\Vehicle.dll
+C:\EFA160_Key\efa160\csharpBasics\08_Classes\08_Vehicle\obj\Debug\net6.0\ref\Vehicle.dll
+C:\EFA160_Key\efa160\csharpBasics\08_Classes\08_Vehicle\obj\Debug\net6.0\Vehicle.pdb
+C:\EFA160_Key\efa160\csharpBasics\08_Classes\08_Vehicle\obj\Debug\net6.0\Vehicle.genruntimeconfig.cache
