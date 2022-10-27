@@ -1,0 +1,15 @@
+c:\EFA160_Key\efa160\csharpBasics\10_Interfaces\bin\Debug\net6.0\Interfaces.exe
+c:\EFA160_Key\efa160\csharpBasics\10_Interfaces\bin\Debug\net6.0\Interfaces.deps.json
+c:\EFA160_Key\efa160\csharpBasics\10_Interfaces\bin\Debug\net6.0\Interfaces.runtimeconfig.json
+c:\EFA160_Key\efa160\csharpBasics\10_Interfaces\bin\Debug\net6.0\Interfaces.dll
+c:\EFA160_Key\efa160\csharpBasics\10_Interfaces\bin\Debug\net6.0\ref\Interfaces.dll
+c:\EFA160_Key\efa160\csharpBasics\10_Interfaces\bin\Debug\net6.0\Interfaces.pdb
+c:\EFA160_Key\efa160\csharpBasics\10_Interfaces\obj\Debug\net6.0\Interfaces.csproj.AssemblyReference.cache
+c:\EFA160_Key\efa160\csharpBasics\10_Interfaces\obj\Debug\net6.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+c:\EFA160_Key\efa160\csharpBasics\10_Interfaces\obj\Debug\net6.0\Interfaces.AssemblyInfoInputs.cache
+c:\EFA160_Key\efa160\csharpBasics\10_Interfaces\obj\Debug\net6.0\Interfaces.AssemblyInfo.cs
+c:\EFA160_Key\efa160\csharpBasics\10_Interfaces\obj\Debug\net6.0\Interfaces.csproj.CoreCompileInputs.cache
+c:\EFA160_Key\efa160\csharpBasics\10_Interfaces\obj\Debug\net6.0\Interfaces.dll
+c:\EFA160_Key\efa160\csharpBasics\10_Interfaces\obj\Debug\net6.0\ref\Interfaces.dll
+c:\EFA160_Key\efa160\csharpBasics\10_Interfaces\obj\Debug\net6.0\Interfaces.pdb
+c:\EFA160_Key\efa160\csharpBasics\10_Interfaces\obj\Debug\net6.0\Interfaces.genruntimeconfig.cache
