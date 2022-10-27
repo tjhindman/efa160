@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\EFA160_Key\\efa160\\csharpBasics\\06_Conditionals\\06_Conditionals.csproj": {}
+    "c:\\EFA160_Key\\efa160\\csharpBasics\\06_Conditionals\\06_Conditionals.csproj": {}
   },
   "projects": {
-    "C:\\EFA160_Key\\efa160\\csharpBasics\\06_Conditionals\\06_Conditionals.csproj": {
+    "c:\\EFA160_Key\\efa160\\csharpBasics\\06_Conditionals\\06_Conditionals.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\EFA160_Key\\efa160\\csharpBasics\\06_Conditionals\\06_Conditionals.csproj",
+        "projectUniqueName": "c:\\EFA160_Key\\efa160\\csharpBasics\\06_Conditionals\\06_Conditionals.csproj",
         "projectName": "06_Conditionals",
-        "projectPath": "C:\\EFA160_Key\\efa160\\csharpBasics\\06_Conditionals\\06_Conditionals.csproj",
+        "projectPath": "c:\\EFA160_Key\\efa160\\csharpBasics\\06_Conditionals\\06_Conditionals.csproj",
         "packagesPath": "C:\\Users\\Tinka\\.nuget\\packages\\",
-        "outputPath": "C:\\EFA160_Key\\efa160\\csharpBasics\\06_Conditionals\\obj\\",
+        "outputPath": "c:\\EFA160_Key\\efa160\\csharpBasics\\06_Conditionals\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

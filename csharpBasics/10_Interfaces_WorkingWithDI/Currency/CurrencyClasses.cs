@@ -1,4 +1,12 @@
 
+public class Penny : ICurrency
+{
+    public string Name => "Penny";
+
+    public decimal Value => .01m;
+}
+
+
 
 public class Dime : ICurrency
 {

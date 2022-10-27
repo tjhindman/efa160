@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\EFA160_Key\\efa160\\csharpBasics\\10_Interfaces_WorkingWithDI_Tests\\Interfaces_WorkingWithDI_Tests.csproj": {}
+    "c:\\EFA160_Key\\efa160\\csharpBasics\\10_Interfaces_WorkingWithDI_Tests\\Interfaces_WorkingWithDI_Tests.csproj": {}
   },
   "projects": {
-    "C:\\EFA160_Key\\efa160\\csharpBasics\\10_Interfaces_WorkingWithDI_Tests\\Interfaces_WorkingWithDI_Tests.csproj": {
+    "c:\\EFA160_Key\\efa160\\csharpBasics\\10_Interfaces_WorkingWithDI\\Interfaces_WorkingWithDI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\EFA160_Key\\efa160\\csharpBasics\\10_Interfaces_WorkingWithDI_Tests\\Interfaces_WorkingWithDI_Tests.csproj",
-        "projectName": "Interfaces_WorkingWithDI_Tests",
-        "projectPath": "C:\\EFA160_Key\\efa160\\csharpBasics\\10_Interfaces_WorkingWithDI_Tests\\Interfaces_WorkingWithDI_Tests.csproj",
+        "projectUniqueName": "c:\\EFA160_Key\\efa160\\csharpBasics\\10_Interfaces_WorkingWithDI\\Interfaces_WorkingWithDI.csproj",
+        "projectName": "Interfaces_WorkingWithDI",
+        "projectPath": "c:\\EFA160_Key\\efa160\\csharpBasics\\10_Interfaces_WorkingWithDI\\Interfaces_WorkingWithDI.csproj",
         "packagesPath": "C:\\Users\\Tinka\\.nuget\\packages\\",
-        "outputPath": "C:\\EFA160_Key\\efa160\\csharpBasics\\10_Interfaces_WorkingWithDI_Tests\\obj\\",
+        "outputPath": "c:\\EFA160_Key\\efa160\\csharpBasics\\10_Interfaces_WorkingWithDI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -34,6 +34,70 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\EFA160_Key\\efa160\\csharpBasics\\10_Interfaces_WorkingWithDI_Tests\\Interfaces_WorkingWithDI_Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\EFA160_Key\\efa160\\csharpBasics\\10_Interfaces_WorkingWithDI_Tests\\Interfaces_WorkingWithDI_Tests.csproj",
+        "projectName": "Interfaces_WorkingWithDI_Tests",
+        "projectPath": "c:\\EFA160_Key\\efa160\\csharpBasics\\10_Interfaces_WorkingWithDI_Tests\\Interfaces_WorkingWithDI_Tests.csproj",
+        "packagesPath": "C:\\Users\\Tinka\\.nuget\\packages\\",
+        "outputPath": "c:\\EFA160_Key\\efa160\\csharpBasics\\10_Interfaces_WorkingWithDI_Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Tinka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "c:\\EFA160_Key\\efa160\\csharpBasics\\10_Interfaces_WorkingWithDI\\Interfaces_WorkingWithDI.csproj": {
+                "projectPath": "c:\\EFA160_Key\\efa160\\csharpBasics\\10_Interfaces_WorkingWithDI\\Interfaces_WorkingWithDI.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

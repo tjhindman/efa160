@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wQI1vAl6Gi90BpS8OwnAih3isgwkqghCI6PpbvBKe+j2Db0OEZjb8N71OYS4MqyClxUIyfcLH6UFvrt/dqJCFg==",
+  "dgSpecHash": "XQeaSp1Gm3kQzZsW1SviQEF21H556DPQwXKgibu49gtNRfQ/N4N9wbPv1aDet825clT0waaD+lGkOh4TqfSpcw==",
   "success": true,
-  "projectFilePath": "C:\\EFA160_Key\\efa160\\csharpBasics\\10_Interfaces_WorkingWithDI_Tests\\Interfaces_WorkingWithDI_Tests.csproj",
+  "projectFilePath": "c:\\EFA160_Key\\efa160\\csharpBasics\\10_Interfaces_WorkingWithDI_Tests\\Interfaces_WorkingWithDI_Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tinka\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
     "C:\\Users\\Tinka\\.nuget\\packages\\microsoft.codecoverage\\16.11.0\\microsoft.codecoverage.16.11.0.nupkg.sha512",

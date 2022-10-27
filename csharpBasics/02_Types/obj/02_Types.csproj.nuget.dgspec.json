@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\EFA160_Key\\efa160\\csharpBasics\\02_Types\\02_Types.csproj": {}
+    "c:\\EFA160_Key\\efa160\\csharpBasics\\02_Types\\02_Types.csproj": {}
   },
   "projects": {
-    "C:\\EFA160_Key\\efa160\\csharpBasics\\02_Types\\02_Types.csproj": {
+    "c:\\EFA160_Key\\efa160\\csharpBasics\\02_Types\\02_Types.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\EFA160_Key\\efa160\\csharpBasics\\02_Types\\02_Types.csproj",
+        "projectUniqueName": "c:\\EFA160_Key\\efa160\\csharpBasics\\02_Types\\02_Types.csproj",
         "projectName": "02_Types",
-        "projectPath": "C:\\EFA160_Key\\efa160\\csharpBasics\\02_Types\\02_Types.csproj",
+        "projectPath": "c:\\EFA160_Key\\efa160\\csharpBasics\\02_Types\\02_Types.csproj",
         "packagesPath": "C:\\Users\\Tinka\\.nuget\\packages\\",
-        "outputPath": "C:\\EFA160_Key\\efa160\\csharpBasics\\02_Types\\obj\\",
+        "outputPath": "c:\\EFA160_Key\\efa160\\csharpBasics\\02_Types\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

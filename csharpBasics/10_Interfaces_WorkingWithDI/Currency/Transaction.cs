@@ -7,7 +7,7 @@
         //This is where the DI happens
         public Transaction(ICurrency currency)
         {
-            _currency=currency;
+            _currency = currency;
 
             //we want to know when the transaction happened
             DateOfTransaction = DateTimeOffset.Now;

@@ -5996,11 +5996,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\EFA160_Key\\efa160\\csharpBasics\\09_Inheritance_Tests\\InheritanceTest.csproj",
+      "projectUniqueName": "c:\\EFA160_Key\\efa160\\csharpBasics\\09_Inheritance_Tests\\InheritanceTest.csproj",
       "projectName": "InheritanceTest",
-      "projectPath": "C:\\EFA160_Key\\efa160\\csharpBasics\\09_Inheritance_Tests\\InheritanceTest.csproj",
+      "projectPath": "c:\\EFA160_Key\\efa160\\csharpBasics\\09_Inheritance_Tests\\InheritanceTest.csproj",
       "packagesPath": "C:\\Users\\Tinka\\.nuget\\packages\\",
-      "outputPath": "C:\\EFA160_Key\\efa160\\csharpBasics\\09_Inheritance_Tests\\obj\\",
+      "outputPath": "c:\\EFA160_Key\\efa160\\csharpBasics\\09_Inheritance_Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -6023,8 +6023,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\EFA160_Key\\efa160\\csharpBasics\\09_Inheritance\\Inheritance.csproj": {
-              "projectPath": "C:\\EFA160_Key\\efa160\\csharpBasics\\09_Inheritance\\Inheritance.csproj"
+            "c:\\EFA160_Key\\efa160\\csharpBasics\\09_Inheritance\\Inheritance.csproj": {
+              "projectPath": "c:\\EFA160_Key\\efa160\\csharpBasics\\09_Inheritance\\Inheritance.csproj"
             }
           }
         }

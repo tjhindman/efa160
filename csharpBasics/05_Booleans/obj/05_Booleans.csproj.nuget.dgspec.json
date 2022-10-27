@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\EFA160_Key\\efa160\\csharpBasics\\05_Booleans\\05_Booleans.csproj": {}
+    "c:\\EFA160_Key\\efa160\\csharpBasics\\05_Booleans\\05_Booleans.csproj": {}
   },
   "projects": {
-    "C:\\EFA160_Key\\efa160\\csharpBasics\\05_Booleans\\05_Booleans.csproj": {
+    "c:\\EFA160_Key\\efa160\\csharpBasics\\05_Booleans\\05_Booleans.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\EFA160_Key\\efa160\\csharpBasics\\05_Booleans\\05_Booleans.csproj",
+        "projectUniqueName": "c:\\EFA160_Key\\efa160\\csharpBasics\\05_Booleans\\05_Booleans.csproj",
         "projectName": "05_Booleans",
-        "projectPath": "C:\\EFA160_Key\\efa160\\csharpBasics\\05_Booleans\\05_Booleans.csproj",
+        "projectPath": "c:\\EFA160_Key\\efa160\\csharpBasics\\05_Booleans\\05_Booleans.csproj",
         "packagesPath": "C:\\Users\\Tinka\\.nuget\\packages\\",
-        "outputPath": "C:\\EFA160_Key\\efa160\\csharpBasics\\05_Booleans\\obj\\",
+        "outputPath": "c:\\EFA160_Key\\efa160\\csharpBasics\\05_Booleans\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

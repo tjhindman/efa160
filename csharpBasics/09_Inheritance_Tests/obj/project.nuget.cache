@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8+V8zIZ3I8UoKxOhRDXgo8xbxejcYJ+cp6DXQJfJu/XnxKq5sBzOzRSUdEuTF37ym+osAfcG6DCN3a2HkJLJ4g==",
+  "dgSpecHash": "5QFiZPydSY62mWhXFQ5ExtMgmYjaZtjNbTctCXUBY00rS0cfDraVMX6TGxqsHkgOmfenUOuyour9PTL/201uIw==",
   "success": true,
-  "projectFilePath": "C:\\EFA160_Key\\efa160\\csharpBasics\\09_Inheritance_Tests\\InheritanceTest.csproj",
+  "projectFilePath": "c:\\EFA160_Key\\efa160\\csharpBasics\\09_Inheritance_Tests\\InheritanceTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tinka\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
     "C:\\Users\\Tinka\\.nuget\\packages\\microsoft.codecoverage\\16.11.0\\microsoft.codecoverage.16.11.0.nupkg.sha512",

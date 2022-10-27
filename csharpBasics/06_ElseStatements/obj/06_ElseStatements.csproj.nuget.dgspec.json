@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\EFA160_Key\\efa160\\csharpBasics\\06_ElseStatements\\06_ElseStatements.csproj": {}
+    "c:\\EFA160_Key\\efa160\\csharpBasics\\06_ElseStatements\\06_ElseStatements.csproj": {}
   },
   "projects": {
-    "C:\\EFA160_Key\\efa160\\csharpBasics\\06_ElseStatements\\06_ElseStatements.csproj": {
+    "c:\\EFA160_Key\\efa160\\csharpBasics\\06_ElseStatements\\06_ElseStatements.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\EFA160_Key\\efa160\\csharpBasics\\06_ElseStatements\\06_ElseStatements.csproj",
+        "projectUniqueName": "c:\\EFA160_Key\\efa160\\csharpBasics\\06_ElseStatements\\06_ElseStatements.csproj",
         "projectName": "06_ElseStatements",
-        "projectPath": "C:\\EFA160_Key\\efa160\\csharpBasics\\06_ElseStatements\\06_ElseStatements.csproj",
+        "projectPath": "c:\\EFA160_Key\\efa160\\csharpBasics\\06_ElseStatements\\06_ElseStatements.csproj",
         "packagesPath": "C:\\Users\\Tinka\\.nuget\\packages\\",
-        "outputPath": "C:\\EFA160_Key\\efa160\\csharpBasics\\06_ElseStatements\\obj\\",
+        "outputPath": "c:\\EFA160_Key\\efa160\\csharpBasics\\06_ElseStatements\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
