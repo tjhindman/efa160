@@ -1,0 +1,15 @@
+c:\EFA160_Key\efa160\csharpBasics\11_StreamingContent\StreamingContent\bin\Debug\net6.0\StreamingContent.exe
+c:\EFA160_Key\efa160\csharpBasics\11_StreamingContent\StreamingContent\bin\Debug\net6.0\StreamingContent.deps.json
+c:\EFA160_Key\efa160\csharpBasics\11_StreamingContent\StreamingContent\bin\Debug\net6.0\StreamingContent.runtimeconfig.json
+c:\EFA160_Key\efa160\csharpBasics\11_StreamingContent\StreamingContent\bin\Debug\net6.0\StreamingContent.dll
+c:\EFA160_Key\efa160\csharpBasics\11_StreamingContent\StreamingContent\bin\Debug\net6.0\ref\StreamingContent.dll
+c:\EFA160_Key\efa160\csharpBasics\11_StreamingContent\StreamingContent\bin\Debug\net6.0\StreamingContent.pdb
+c:\EFA160_Key\efa160\csharpBasics\11_StreamingContent\StreamingContent\obj\Debug\net6.0\StreamingContent.csproj.AssemblyReference.cache
+c:\EFA160_Key\efa160\csharpBasics\11_StreamingContent\StreamingContent\obj\Debug\net6.0\StreamingContent.GeneratedMSBuildEditorConfig.editorconfig
+c:\EFA160_Key\efa160\csharpBasics\11_StreamingContent\StreamingContent\obj\Debug\net6.0\StreamingContent.AssemblyInfoInputs.cache
+c:\EFA160_Key\efa160\csharpBasics\11_StreamingContent\StreamingContent\obj\Debug\net6.0\StreamingContent.AssemblyInfo.cs
+c:\EFA160_Key\efa160\csharpBasics\11_StreamingContent\StreamingContent\obj\Debug\net6.0\StreamingContent.csproj.CoreCompileInputs.cache
+c:\EFA160_Key\efa160\csharpBasics\11_StreamingContent\StreamingContent\obj\Debug\net6.0\StreamingContent.dll
+c:\EFA160_Key\efa160\csharpBasics\11_StreamingContent\StreamingContent\obj\Debug\net6.0\ref\StreamingContent.dll
+c:\EFA160_Key\efa160\csharpBasics\11_StreamingContent\StreamingContent\obj\Debug\net6.0\StreamingContent.pdb
+c:\EFA160_Key\efa160\csharpBasics\11_StreamingContent\StreamingContent\obj\Debug\net6.0\StreamingContent.genruntimeconfig.cache

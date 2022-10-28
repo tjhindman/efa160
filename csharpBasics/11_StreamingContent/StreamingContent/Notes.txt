@@ -1,0 +1,7 @@
+Streaming Content
+
+1. Domain Objects (POCOs -> Plain Old C# Objects)
+
+2. Build your repository (Data Store) -> we will "fake" it with a List<T>
+
+3. Build our UI
