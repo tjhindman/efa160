@@ -3,7 +3,7 @@ public class StreamingContentRepository
 {
     //we need a FAKE DATABASE! -> WE WILL USE A List<T> collection
     //private readonly field
-    private readonly List<StreamingContent> _contentDb = new List<StreamingContent>();
+    protected readonly List<StreamingContent> _contentDb = new List<StreamingContent>();
 
 
 
@@ -92,7 +92,7 @@ public class StreamingContentRepository
 
         foreach (var item in _contentDb)
         {
-            if(item.MaturityRating == rating)
+            if (item.MaturityRating == rating)
             {
                 aux.Add(item);
             }
