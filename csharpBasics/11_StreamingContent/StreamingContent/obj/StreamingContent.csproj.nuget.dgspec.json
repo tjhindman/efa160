@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\EFA160_Key\\efa160\\csharpBasics\\11_StreamingContent\\StreamingContent\\StreamingContent.csproj": {}
+    "C:\\EFA160_Key\\efa160\\csharpBasics\\11_StreamingContent\\StreamingContent\\StreamingContent.csproj": {}
   },
   "projects": {
-    "c:\\EFA160_Key\\efa160\\csharpBasics\\11_StreamingContent\\StreamingContent\\StreamingContent.csproj": {
+    "C:\\EFA160_Key\\efa160\\csharpBasics\\11_StreamingContent\\StreamingContent\\StreamingContent.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\EFA160_Key\\efa160\\csharpBasics\\11_StreamingContent\\StreamingContent\\StreamingContent.csproj",
+        "projectUniqueName": "C:\\EFA160_Key\\efa160\\csharpBasics\\11_StreamingContent\\StreamingContent\\StreamingContent.csproj",
         "projectName": "StreamingContent",
-        "projectPath": "c:\\EFA160_Key\\efa160\\csharpBasics\\11_StreamingContent\\StreamingContent\\StreamingContent.csproj",
+        "projectPath": "C:\\EFA160_Key\\efa160\\csharpBasics\\11_StreamingContent\\StreamingContent\\StreamingContent.csproj",
         "packagesPath": "C:\\Users\\Tinka\\.nuget\\packages\\",
-        "outputPath": "c:\\EFA160_Key\\efa160\\csharpBasics\\11_StreamingContent\\StreamingContent\\obj\\",
+        "outputPath": "C:\\EFA160_Key\\efa160\\csharpBasics\\11_StreamingContent\\StreamingContent\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
