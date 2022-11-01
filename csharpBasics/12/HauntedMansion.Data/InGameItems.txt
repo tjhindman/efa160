@@ -1,0 +1,16 @@
+|
+1
+Knife
+3
+|
+2
+Map
+10
+|
+3
+Flashlight
+10
+|
+4
+Plasma_Pistol
+10
