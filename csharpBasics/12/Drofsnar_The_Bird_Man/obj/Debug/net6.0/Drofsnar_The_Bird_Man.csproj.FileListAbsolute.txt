@@ -1,0 +1,15 @@
+C:\EFA160_Key\efa160\csharpBasics\12\Drofsnar_The_Bird_Man\bin\Debug\net6.0\Drofsnar_The_Bird_Man.exe
+C:\EFA160_Key\efa160\csharpBasics\12\Drofsnar_The_Bird_Man\bin\Debug\net6.0\Drofsnar_The_Bird_Man.deps.json
+C:\EFA160_Key\efa160\csharpBasics\12\Drofsnar_The_Bird_Man\bin\Debug\net6.0\Drofsnar_The_Bird_Man.runtimeconfig.json
+C:\EFA160_Key\efa160\csharpBasics\12\Drofsnar_The_Bird_Man\bin\Debug\net6.0\Drofsnar_The_Bird_Man.dll
+C:\EFA160_Key\efa160\csharpBasics\12\Drofsnar_The_Bird_Man\bin\Debug\net6.0\ref\Drofsnar_The_Bird_Man.dll
+C:\EFA160_Key\efa160\csharpBasics\12\Drofsnar_The_Bird_Man\bin\Debug\net6.0\Drofsnar_The_Bird_Man.pdb
+C:\EFA160_Key\efa160\csharpBasics\12\Drofsnar_The_Bird_Man\obj\Debug\net6.0\Drofsnar_The_Bird_Man.csproj.AssemblyReference.cache
+C:\EFA160_Key\efa160\csharpBasics\12\Drofsnar_The_Bird_Man\obj\Debug\net6.0\Drofsnar_The_Bird_Man.GeneratedMSBuildEditorConfig.editorconfig
+C:\EFA160_Key\efa160\csharpBasics\12\Drofsnar_The_Bird_Man\obj\Debug\net6.0\Drofsnar_The_Bird_Man.AssemblyInfoInputs.cache
+C:\EFA160_Key\efa160\csharpBasics\12\Drofsnar_The_Bird_Man\obj\Debug\net6.0\Drofsnar_The_Bird_Man.AssemblyInfo.cs
+C:\EFA160_Key\efa160\csharpBasics\12\Drofsnar_The_Bird_Man\obj\Debug\net6.0\Drofsnar_The_Bird_Man.csproj.CoreCompileInputs.cache
+C:\EFA160_Key\efa160\csharpBasics\12\Drofsnar_The_Bird_Man\obj\Debug\net6.0\Drofsnar_The_Bird_Man.dll
+C:\EFA160_Key\efa160\csharpBasics\12\Drofsnar_The_Bird_Man\obj\Debug\net6.0\ref\Drofsnar_The_Bird_Man.dll
+C:\EFA160_Key\efa160\csharpBasics\12\Drofsnar_The_Bird_Man\obj\Debug\net6.0\Drofsnar_The_Bird_Man.pdb
+C:\EFA160_Key\efa160\csharpBasics\12\Drofsnar_The_Bird_Man\obj\Debug\net6.0\Drofsnar_The_Bird_Man.genruntimeconfig.cache

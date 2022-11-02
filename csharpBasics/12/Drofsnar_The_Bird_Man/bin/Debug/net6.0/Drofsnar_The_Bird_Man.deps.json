@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Drofsnar_The_Bird_Man/1.0.0": {
+        "runtime": {
+          "Drofsnar_The_Bird_Man.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Drofsnar_The_Bird_Man/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
