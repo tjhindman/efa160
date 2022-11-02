@@ -1,0 +1,12 @@
+C:\EFA160_Key\efa160\csharpBasics\12\HauntedMansion.Data\bin\Debug\net6.0\HauntedMansion.Data.deps.json
+C:\EFA160_Key\efa160\csharpBasics\12\HauntedMansion.Data\bin\Debug\net6.0\HauntedMansion.Data.dll
+C:\EFA160_Key\efa160\csharpBasics\12\HauntedMansion.Data\bin\Debug\net6.0\ref\HauntedMansion.Data.dll
+C:\EFA160_Key\efa160\csharpBasics\12\HauntedMansion.Data\bin\Debug\net6.0\HauntedMansion.Data.pdb
+C:\EFA160_Key\efa160\csharpBasics\12\HauntedMansion.Data\obj\Debug\net6.0\HauntedMansion.Data.csproj.AssemblyReference.cache
+C:\EFA160_Key\efa160\csharpBasics\12\HauntedMansion.Data\obj\Debug\net6.0\HauntedMansion.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\EFA160_Key\efa160\csharpBasics\12\HauntedMansion.Data\obj\Debug\net6.0\HauntedMansion.Data.AssemblyInfoInputs.cache
+C:\EFA160_Key\efa160\csharpBasics\12\HauntedMansion.Data\obj\Debug\net6.0\HauntedMansion.Data.AssemblyInfo.cs
+C:\EFA160_Key\efa160\csharpBasics\12\HauntedMansion.Data\obj\Debug\net6.0\HauntedMansion.Data.csproj.CoreCompileInputs.cache
+C:\EFA160_Key\efa160\csharpBasics\12\HauntedMansion.Data\obj\Debug\net6.0\HauntedMansion.Data.dll
+C:\EFA160_Key\efa160\csharpBasics\12\HauntedMansion.Data\obj\Debug\net6.0\ref\HauntedMansion.Data.dll
+C:\EFA160_Key\efa160\csharpBasics\12\HauntedMansion.Data\obj\Debug\net6.0\HauntedMansion.Data.pdb

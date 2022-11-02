@@ -1,0 +1,199 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\EFA160_Key\\efa160\\csharpBasics\\12\\HauntedMansion\\HauntedMansion.csproj": {}
+  },
+  "projects": {
+    "C:\\EFA160_Key\\efa160\\csharpBasics\\12\\HauntedMansion.Data\\HauntedMansion.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\EFA160_Key\\efa160\\csharpBasics\\12\\HauntedMansion.Data\\HauntedMansion.Data.csproj",
+        "projectName": "HauntedMansion.Data",
+        "projectPath": "C:\\EFA160_Key\\efa160\\csharpBasics\\12\\HauntedMansion.Data\\HauntedMansion.Data.csproj",
+        "packagesPath": "C:\\Users\\Tinka\\.nuget\\packages\\",
+        "outputPath": "C:\\EFA160_Key\\efa160\\csharpBasics\\12\\HauntedMansion.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Tinka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\EFA160_Key\\efa160\\csharpBasics\\12\\HauntedMansion.Repository\\HauntedMansion.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\EFA160_Key\\efa160\\csharpBasics\\12\\HauntedMansion.Repository\\HauntedMansion.Repository.csproj",
+        "projectName": "HauntedMansion.Repository",
+        "projectPath": "C:\\EFA160_Key\\efa160\\csharpBasics\\12\\HauntedMansion.Repository\\HauntedMansion.Repository.csproj",
+        "packagesPath": "C:\\Users\\Tinka\\.nuget\\packages\\",
+        "outputPath": "C:\\EFA160_Key\\efa160\\csharpBasics\\12\\HauntedMansion.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Tinka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\EFA160_Key\\efa160\\csharpBasics\\12\\HauntedMansion.Data\\HauntedMansion.Data.csproj": {
+                "projectPath": "C:\\EFA160_Key\\efa160\\csharpBasics\\12\\HauntedMansion.Data\\HauntedMansion.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\EFA160_Key\\efa160\\csharpBasics\\12\\HauntedMansion\\HauntedMansion.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\EFA160_Key\\efa160\\csharpBasics\\12\\HauntedMansion\\HauntedMansion.csproj",
+        "projectName": "HauntedMansion",
+        "projectPath": "C:\\EFA160_Key\\efa160\\csharpBasics\\12\\HauntedMansion\\HauntedMansion.csproj",
+        "packagesPath": "C:\\Users\\Tinka\\.nuget\\packages\\",
+        "outputPath": "C:\\EFA160_Key\\efa160\\csharpBasics\\12\\HauntedMansion\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Tinka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\EFA160_Key\\efa160\\csharpBasics\\12\\HauntedMansion.Data\\HauntedMansion.Data.csproj": {
+                "projectPath": "C:\\EFA160_Key\\efa160\\csharpBasics\\12\\HauntedMansion.Data\\HauntedMansion.Data.csproj"
+              },
+              "C:\\EFA160_Key\\efa160\\csharpBasics\\12\\HauntedMansion.Repository\\HauntedMansion.Repository.csproj": {
+                "projectPath": "C:\\EFA160_Key\\efa160\\csharpBasics\\12\\HauntedMansion.Repository\\HauntedMansion.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

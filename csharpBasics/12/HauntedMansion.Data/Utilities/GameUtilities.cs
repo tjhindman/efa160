@@ -26,4 +26,25 @@ public static class GameUtilities
         }
         return playerStartingItems;
     }
+
+    public static void FoundPistolCartriage(int roundValue, Player player)
+    {
+        player.LoadPlasmaPistol(roundValue);
+    }
+
+    public static void TellTheStory(string storySection)
+    {
+        System.Console.WriteLine(storySection);
+    }
+
+    public static void DisplayFloorChallengeInfo(HauntedHouse _house)
+    {
+        foreach (Floor floor in _house.FloorsInHouse)
+        {
+            foreach(Challenge fChallenge in floor.Challenges)
+            {
+                System.Console.WriteLine(fChallenge.ChallengeDescription);
+            }
+        }
+    }
 }

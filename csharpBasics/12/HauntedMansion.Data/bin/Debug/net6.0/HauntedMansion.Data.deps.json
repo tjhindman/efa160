@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HauntedMansion.Data/1.0.0": {
+        "runtime": {
+          "HauntedMansion.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HauntedMansion.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
