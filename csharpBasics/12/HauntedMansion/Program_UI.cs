@@ -17,8 +17,6 @@ public class Program_UI
         // System.Console.WriteLine(_house);
     }
 
-
-
     public void Run()
     {
         RunApplication();
